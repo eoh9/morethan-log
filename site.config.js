@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `erin-log`,
-      href: "https://github.com/eoh9/erin-log",
+      href: "https://github.com/eoh9",
     },
   ],
   // blog setting (required)
