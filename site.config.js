@@ -6,16 +6,11 @@ const CONFIG = {
     role: "backend developer",
     bio: "I develop everything using node.",
     email: "erin35127@gmail.com",
-    linkedin: "www.linkedin.com/in/erinoh02",
-    github: "eoh9",
-    instagram: "https://www.instagram.com/o_erin2",
+    linkedin: "https://www.linkedin.com/in/erinoh02/",
+    github: "https://github.com/eoh9",
+    instagram: "https://www.instagram.com/o_erin2/",
   },
-  projects: [
-    {
-      name: `erin-log`,
-      href: "https://erin-log.vercel.app/",
-    },
-  ],
+  
   // blog setting (required)
   blog: {
     title: "erin-log",
