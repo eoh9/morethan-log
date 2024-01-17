@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `erin-log`,
-      href: "https://github.com/eoh9",
+      href: "https://erin-log.vercel.app/",
     },
   ],
   // blog setting (required)
