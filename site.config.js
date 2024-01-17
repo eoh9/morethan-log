@@ -6,9 +6,9 @@ const CONFIG = {
     role: "backend developer",
     bio: "I develop everything using node.",
     email: "erin35127@gmail.com",
-    linkedin: "https://www.linkedin.com/in/erinoh02/",
+    linkedin: "erinoh02",
     github: "https://github.com/eoh9",
-    instagram: "https://www.instagram.com/o_erin2/",
+    instagram: "o_erin2",
   },
   
   // blog setting (required)
