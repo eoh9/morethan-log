@@ -5,7 +5,6 @@ const CONFIG = {
     image: "apple-touch-icon.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "DevOps developer",
     bio: "I develop everything using node.",
-    email: "",
     linkedin: "erinoh02",
     github: "eoh9",
     instagram: "o_erin2",
