@@ -7,6 +7,3 @@ Host: https:/erin-log.vercel.app
 
 # Sitemaps
 Sitemap: https://erin-log.vercel.app/sitemap.xml
-
-
-google-site-verification: google24bbff76266d5600.html
