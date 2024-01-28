@@ -1,11 +1,11 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "Erin Oh",
-    image: "apple-touch-icon.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    name: "eoh9",
+    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "DevOps developer",
     bio: "I develop everything using node.",
-    email: "erin35127@naver.com",
+    email: "erin35127@gmail.com",
     linkedin: "erinoh02",
     github: "eoh9",
     instagram: "o_erin2",
@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `erin-log`,
-      href: "https://erin-log-kohl-phi.vercel.app/",
+      href: "https://github.com/eoh9/morethan-log",
     },
   ],
   // blog setting (required)
