@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `erin-log`,
-      href: "https://erin-log-kohl-phi.vercel.app/",
+      href: "erin-log-oerin2s-projects.vercel.app",
     },
   ],
   // blog setting (required)
